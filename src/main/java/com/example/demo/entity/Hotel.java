@@ -45,9 +45,7 @@ public class Hotel {
 	private String hdescription;
 	
 	
-//	@ManyToMany(targetEntity=HotelCategory.class,fetch = FetchType.EAGER) 
-//	@JoinColumn(name="hcid",insertable = false, updatable = false)
-//	private int hcid;
+
 	
 	@Column(name="har")
 	private int har;
@@ -133,28 +131,6 @@ public class Hotel {
 	}
 
 
-
-//	public HotelCategory getHotelcategory() {
-//		return hotelcategory;
-//	}
-//
-//
-//
-//	public void setHotelcategory(HotelCategory hotelcategory) {
-//		this.hotelcategory = hotelcategory;
-//	}
-
-
-
-//	public Set<HotelBookings> getHotelbookings() {
-//		return hotelbookings;
-//	}
-
-
-
-//	public void setHotelbookings(Set<HotelBookings> hotelbookings) {
-//		this.hotelbookings = hotelbookings;
-//	}
 
 
 
