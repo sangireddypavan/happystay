@@ -124,21 +124,6 @@ public class HotelBookings {
 		this.roomno = roomno;
 	}
 
-//	public Hotel getHotel() {
-//		return hotel;
-//	}
-//
-//	public void setHotel(Hotel hotel) {
-//		this.hotel = hotel;
-//	}
-//
-//	public User getUser() {
-//		return user;
-//	}
-//
-//	public void setUser(User user) {
-//		this.user = user;
-//	}
 
 	public Date getFromdate() {
 		return fromdate;
