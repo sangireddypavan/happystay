@@ -43,12 +43,7 @@ public class User_Controller {
 		}
 		
 		
-//		List<User> user=usr.validate(uemail, upwd);
-//		if(user==null) {
-//			return null;
-//		}
-//		return user;
-//		
+		
 		
 	}
 	
